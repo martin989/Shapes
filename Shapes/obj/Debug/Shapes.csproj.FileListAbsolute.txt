@@ -1,0 +1,44 @@
+C:\Users\Martin\Desktop\Shapes\Shapes\Shapes\obj\Debug\Shapes.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\Shapes\Shapes\Shapes\obj\Debug\Shapes.Views.MainView.resources
+C:\Users\Martin\Desktop\Shapes\Shapes\Shapes\obj\Debug\Shapes.Properties.Resources.resources
+C:\Users\Martin\Desktop\Shapes\Shapes\Shapes\obj\Debug\Shapes.Views.ShapeSelectorView.resources
+C:\Users\Martin\Desktop\Shapes\Shapes\Shapes\obj\Debug\Shapes.csproj.GenerateResource.cache
+C:\Users\Martin\Desktop\Shapes\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Shapes\Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Martin\Desktop\Shapes\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\Martin\Desktop\Shapes\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Martin\Desktop\Shapes\Shapes\Shapes\obj\Debug\Shapes.exe
+C:\Users\Martin\Desktop\Shapes\Shapes\Shapes\obj\Debug\Shapes.pdb
+C:\Users\Martin\Desktop\Shapes Temp\Shapes-Temp\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Martin\Desktop\Shapes Temp\Shapes-Temp\Shapes\bin\Debug\Shapes.exe
+C:\Users\Martin\Desktop\Shapes Temp\Shapes-Temp\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Martin\Desktop\Shapes Temp\Shapes-Temp\Shapes\obj\Debug\Shapes.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\Shapes Temp\Shapes-Temp\Shapes\obj\Debug\Shapes.Views.MainView.resources
+C:\Users\Martin\Desktop\Shapes Temp\Shapes-Temp\Shapes\obj\Debug\Shapes.Properties.Resources.resources
+C:\Users\Martin\Desktop\Shapes Temp\Shapes-Temp\Shapes\obj\Debug\Shapes.Views.ShapeSelectorView.resources
+C:\Users\Martin\Desktop\Shapes Temp\Shapes-Temp\Shapes\obj\Debug\Shapes.csproj.GenerateResource.cache
+C:\Users\Martin\Desktop\Shapes Temp\Shapes-Temp\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Shapes Temp\Shapes-Temp\Shapes\obj\Debug\Shapes.exe
+C:\Users\Martin\Desktop\Shapes Temp\Shapes-Temp\Shapes\obj\Debug\Shapes.pdb
+C:\Users\Martin\Desktop\Shapes Temp Large Changes\Shapes-Temp\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Martin\Desktop\Shapes Temp Large Changes\Shapes-Temp\Shapes\bin\Debug\Shapes.exe
+C:\Users\Martin\Desktop\Shapes Temp Large Changes\Shapes-Temp\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Martin\Desktop\Shapes Temp Large Changes\Shapes-Temp\Shapes\obj\Debug\Shapes.Views.MainView.resources
+C:\Users\Martin\Desktop\Shapes Temp Large Changes\Shapes-Temp\Shapes\obj\Debug\Shapes.Properties.Resources.resources
+C:\Users\Martin\Desktop\Shapes Temp Large Changes\Shapes-Temp\Shapes\obj\Debug\Shapes.Views.ShapeSelectorView.resources
+C:\Users\Martin\Desktop\Shapes Temp Large Changes\Shapes-Temp\Shapes\obj\Debug\Shapes.csproj.GenerateResource.cache
+C:\Users\Martin\Desktop\Shapes Temp Large Changes\Shapes-Temp\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Shapes Temp Large Changes\Shapes-Temp\Shapes\obj\Debug\Shapes.exe
+C:\Users\Martin\Desktop\Shapes Temp Large Changes\Shapes-Temp\Shapes\obj\Debug\Shapes.pdb
+C:\Users\Martin\Desktop\Shapes Temp Large Changes\Shapes-Temp\Shapes\obj\Debug\Shapes.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\Gentex Coding\Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Martin\Desktop\Gentex Coding\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\Martin\Desktop\Gentex Coding\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Martin\Desktop\Gentex Coding\Shapes\Shapes\obj\Debug\Shapes.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\Gentex Coding\Shapes\Shapes\obj\Debug\Shapes.Views.MainView.resources
+C:\Users\Martin\Desktop\Gentex Coding\Shapes\Shapes\obj\Debug\Shapes.Properties.Resources.resources
+C:\Users\Martin\Desktop\Gentex Coding\Shapes\Shapes\obj\Debug\Shapes.Views.ShapeSelectorView.resources
+C:\Users\Martin\Desktop\Gentex Coding\Shapes\Shapes\obj\Debug\Shapes.csproj.GenerateResource.cache
+C:\Users\Martin\Desktop\Gentex Coding\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Gentex Coding\Shapes\Shapes\obj\Debug\Shapes.exe
+C:\Users\Martin\Desktop\Gentex Coding\Shapes\Shapes\obj\Debug\Shapes.pdb

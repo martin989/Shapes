@@ -29,7 +29,7 @@ namespace Shapes.ModelsStore
         public List<IShape> LoadFromCSV(string shape, String fileName)
         {
             List<IShape> _lstShapes = new List<IShape>();
-            var reader = new StreamReader(File.OpenRead(fileName+ @"\Machine Vision Development Engineer Coding Exercise _ ShapeList.csv"));
+            var reader = new StreamReader(File.OpenRead(fileName+ @"\Shapes.csv"));
             while (!reader.EndOfStream)
             {
                 var line = reader.ReadLine();

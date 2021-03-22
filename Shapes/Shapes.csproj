@@ -96,7 +96,7 @@
     <EmbeddedResource Include="Views\ShapeSelectorView.resx">
       <DependentUpon>ShapeSelectorView.cs</DependentUpon>
     </EmbeddedResource>
-    <None Include="Files\Machine Vision Development Engineer Coding Exercise _ ShapeList.csv" />
+    <None Include="Files\Shapes.csv" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

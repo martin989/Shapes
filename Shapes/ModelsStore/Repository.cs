@@ -41,12 +41,12 @@ namespace Shapes.ModelsStore
             _xmlSquareFilePath = path + @"\squares.xml";
 
 
-            CSVReader csvReader = new CSVReader();
-            if (!File.Exists(_xmlCircleFilePath)) { SaveCircleList(csvReader.GetCircleList("Circle", path)); }
-            if (!File.Exists(_xmlEllipseFilePath)) { SaveEllipseList(csvReader.GetEllipseList("Ellipse", path)); }
-            if (!File.Exists(_xmlTriangleFilePath)) { SaveTriangleList(csvReader.GetEquilateralTriangleList("Equilateral Triangle", path)); }
-            if (!File.Exists(_xmlPolygonFilePath)) { SavePolygonList(csvReader.GetFreeFormPolygonList("Polygon", path)); }
-            if (!File.Exists(_xmlSquareFilePath)) { SaveSquareList(csvReader.GetSquareList("Square", path)); }
+            ShapeList shapeList = new ShapeList();
+            if (!File.Exists(_xmlCircleFilePath)) { SaveCircleList(shapeList.GetCircleList("Circle", path)); }
+            if (!File.Exists(_xmlEllipseFilePath)) { SaveEllipseList(shapeList.GetEllipseList("Ellipse", path)); }
+            if (!File.Exists(_xmlTriangleFilePath)) { SaveTriangleList(shapeList.GetEquilateralTriangleList("Equilateral Triangle", path)); }
+            if (!File.Exists(_xmlPolygonFilePath)) { SavePolygonList(shapeList.GetFreeFormPolygonList("Polygon", path)); }
+            if (!File.Exists(_xmlSquareFilePath)) { SaveSquareList(shapeList.GetSquareList("Square", path)); }
 
 
             _circleList = ReadCircle(_xmlCircleFilePath);

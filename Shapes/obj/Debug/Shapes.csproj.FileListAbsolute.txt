@@ -42,3 +42,14 @@ C:\Users\Martin\Desktop\Gentex Coding\Shapes\Shapes\obj\Debug\Shapes.csproj.Gene
 C:\Users\Martin\Desktop\Gentex Coding\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
 C:\Users\Martin\Desktop\Gentex Coding\Shapes\Shapes\obj\Debug\Shapes.exe
 C:\Users\Martin\Desktop\Gentex Coding\Shapes\Shapes\obj\Debug\Shapes.pdb
+C:\Users\Martin\Desktop\Martin-School\SENG350\Week7\Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Martin\Desktop\Martin-School\SENG350\Week7\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\Martin\Desktop\Martin-School\SENG350\Week7\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Martin\Desktop\Martin-School\SENG350\Week7\Shapes\Shapes\obj\Debug\Shapes.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\Martin-School\SENG350\Week7\Shapes\Shapes\obj\Debug\Shapes.Views.MainView.resources
+C:\Users\Martin\Desktop\Martin-School\SENG350\Week7\Shapes\Shapes\obj\Debug\Shapes.Properties.Resources.resources
+C:\Users\Martin\Desktop\Martin-School\SENG350\Week7\Shapes\Shapes\obj\Debug\Shapes.Views.ShapeSelectorView.resources
+C:\Users\Martin\Desktop\Martin-School\SENG350\Week7\Shapes\Shapes\obj\Debug\Shapes.csproj.GenerateResource.cache
+C:\Users\Martin\Desktop\Martin-School\SENG350\Week7\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Martin-School\SENG350\Week7\Shapes\Shapes\obj\Debug\Shapes.exe
+C:\Users\Martin\Desktop\Martin-School\SENG350\Week7\Shapes\Shapes\obj\Debug\Shapes.pdb

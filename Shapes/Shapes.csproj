@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ModelsStore\CSVReader.cs" />
+    <Compile Include="ModelsStore\ShapeList.cs" />
     <Compile Include="Models\Circle.cs" />
     <Compile Include="Models\Ellipse.cs" />
     <Compile Include="Models\EquilateralTriangle.cs" />
@@ -96,6 +97,8 @@
     <EmbeddedResource Include="Views\ShapeSelectorView.resx">
       <DependentUpon>ShapeSelectorView.cs</DependentUpon>
     </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
     <None Include="Files\Shapes.csv" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
